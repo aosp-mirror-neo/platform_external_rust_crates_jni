@@ -46,7 +46,7 @@ optional = true
 version = "0.3.0"
 
 [dependencies.libloading]
-version = "0.7"
+version = "0.9"
 optional = true
 
 [dependencies.log]
