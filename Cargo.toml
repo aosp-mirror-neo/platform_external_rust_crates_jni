@@ -75,7 +75,7 @@ invocation = [
 ]
 
 [target."cfg(windows)".dependencies.windows-sys]
-version = "0.45.0"
+version = "0.61.2"
 features = ["Win32_Globalization"]
 
 [target."cfg(windows)".dev-dependencies.bytemuck]
